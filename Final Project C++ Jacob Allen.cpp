@@ -204,7 +204,7 @@ void editCurrent()
 		
 		cout << endl << "Which class name or number would you like to edit? (-1 to end): ";
 		cin >> num;
-		outFile.close()
+		outFile.close();
 		
 	}//end while
 }//end editCurrent
